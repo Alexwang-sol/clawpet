@@ -1,0 +1,24 @@
+{
+  "id": "clawpet",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "companion": {
+        "type": "object",
+        "description": "Stored companion data (soul)",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "personality": {
+            "type": "string"
+          },
+          "hatchedAt": {
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
+}

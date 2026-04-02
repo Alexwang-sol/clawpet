@@ -1,0 +1,40 @@
+{
+  "name": "@openclaw/clawpet",
+  "version": "1.0.0",
+  "description": "ClawPet - Virtual companion system for OpenClaw. Hatch and raise your own ASCII pet with unique traits and personality!",
+  "type": "module",
+  "main": "index.ts",
+  "files": [
+    "index.ts",
+    "src/**/*.ts",
+    "openclaw.plugin.json",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "openclaw",
+    "openclaw-plugin",
+    "clawpet",
+    "virtual-pet",
+    "companion",
+    "ascii-pet"
+  ],
+  "author": "",
+  "license": "MIT",
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.9.3",
+    "openclaw": ">=2026.3.0"
+  }
+}
