@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: 📚 Documentation
-    url: https://github.com/Alexwang-sol/clawpet/blob/main/README.md
+    url: https://github.com/Alexwang-sol/claw-pet/blob/main/README.md
     about: Read the ClawPet documentation
   - name: 💬 Discussions
-    url: https://github.com/Alexwang-sol/clawpet/discussions
+    url: https://github.com/Alexwang-sol/claw-pet/discussions
     about: Ask questions and discuss ideas with the community
