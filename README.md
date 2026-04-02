@@ -1,6 +1,12 @@
 <div align="center">
   <img src="assets/logo.png" alt="ClawPet Logo" width="400">
 
+  # EXFOLIATE! EXFOLIATE!
+
+  ![BUILD](https://img.shields.io/badge/BUILD-PASSING-brightgreen)
+  ![RELEASE](https://img.shields.io/badge/RELEASE-v2026.4.1-blue)
+  ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow)
+
   # ClawPet — Virtual Companion for OpenClaw
 
   **Hatch and raise your own ASCII pet with unique traits, personality, and abilities. Your companion grows stronger as you use OpenClaw, creating a living bond between you and your AI assistant.**
